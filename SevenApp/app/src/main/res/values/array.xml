@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array1">
+        <item>Left1</item>
+        <item>Left2</item>
+        <item>Left3</item>
+        <item>Left4</item>
+        <item>Left5</item>
+        <item>Left6</item>
+    </string-array>
+    <string-array name="array2">
+        <item>Right1</item>
+        <item>Right2</item>
+        <item>Right3</item>
+        <item>Right4</item>
+        <item>Right5</item>
+        <item>Right6</item>
+    </string-array>
+</resources>
