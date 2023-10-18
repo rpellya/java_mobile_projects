@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NineApp</string>
+
+    <string name="string_el1">string1</string>
+    <string name="string_el2">string2</string>
+    <string name="int_el">int3</string>
+    <string name="preferences">Settings</string>
+</resources>
