@@ -4,12 +4,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <Button
-        android:text="Third form"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        />
+        android:layout_height="106dp"
+        android:layout_margin="20dp"
+        android:text="Third form" />
+
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:onClick="toBack"/>
+        android:layout_width="match_parent"
+        android:layout_height="139dp"
+        android:layout_margin="20dp"
+        android:onClick="toBack"
+        android:text="Back" />
 </LinearLayout>

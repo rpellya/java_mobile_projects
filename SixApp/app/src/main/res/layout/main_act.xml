@@ -10,6 +10,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:onClick="openSecondForm"
+        android:layout_margin="20dp"
         />
     <Button
         android:id="@+id/btn3"
@@ -18,7 +19,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:onClick="openThirdForm"
+        android:layout_margin="20dp"
         />
-
 </LinearLayout>
 
